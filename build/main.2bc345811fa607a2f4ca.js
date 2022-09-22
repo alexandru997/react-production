@@ -1643,9 +1643,9 @@ function getValueForProperty(node, name, expected, propertyInfo) {
           // the fact that we have it is the same as the expected.
           return expected;
         } // Even if this property uses a namespace we use getAttribute
-        // because we assume its namespaced name is the same as our config.
+        // because we assume its namespaced name is the same as our lib.
         // To use getAttributeNS we need the local name which we don't have
-        // in our config atm.
+        // in our lib atm.
 
 
         stringValue = node.getAttribute(attributeName);
@@ -4589,7 +4589,7 @@ var validateProperty$1 = function () {};
     }
 
     var propertyInfo = getPropertyInfo(name);
-    var isReserved = propertyInfo !== null && propertyInfo.type === RESERVED; // Known attributes should match the casing specified in the property config.
+    var isReserved = propertyInfo !== null && propertyInfo.type === RESERVED; // Known attributes should match the casing specified in the property lib.
 
     if (possibleStandardNames.hasOwnProperty(lowerCasedName)) {
       var standardName = possibleStandardNames[lowerCasedName];
@@ -28377,9 +28377,9 @@ function useRoutes(routes, locationArg) {
 ///////////////////////////////////////////////////////////////////////////////
 
 /**
- * Creates a route config from a React "children" object, which is usually
+ * Creates a route lib from a React "children" object, which is usually
  * either a `<Route>` element or an array of them. Used internally by
- * `<Routes>` to create a route config from its children.
+ * `<Routes>` to create a route lib from its children.
  *
  * @see https://reactrouter.com/docs/en/v6/api#createroutesfromchildren
  */
@@ -28389,7 +28389,7 @@ function createRoutesFromChildren(children) {
   react__WEBPACK_IMPORTED_MODULE_0__.Children.forEach(children, element => {
     if (! /*#__PURE__*/(0,react__WEBPACK_IMPORTED_MODULE_0__.isValidElement)(element)) {
       // Ignore non-elements. This allows people to more easily inline
-      // conditionals in their route config.
+      // conditionals in their route lib.
       return;
     }
 
