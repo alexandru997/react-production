@@ -2,5 +2,8 @@
   "MAIN_PAGE": "Pagina principala",
   "ABOUT_US": "Despre noi ",
   "LANG": "Romana",
-  "NOT_FOUND": "Pagina nu exista"
+  "NOT_FOUND": "Pagina nu exista",
+  "SOMETHING_WENT_WRONG": "Ceva nu a mers bine",
+  "UPDATE_PAGE": "Actualizeaza pagina",
+  "THROW_ERROR": "Erroare"
 }

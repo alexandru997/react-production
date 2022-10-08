@@ -2,5 +2,8 @@
   "MAIN_PAGE": "Main page",
   "ABOUT_US": "About us",
   "LANG": "English",
-  "NOT_FOUND": "Page not found"
+  "NOT_FOUND": "Page not found",
+  "SOMETHING_WENT_WRONG": "Something went wrong",
+  "UPDATE_PAGE": "Update page",
+  "THROW_ERROR": "ERROR"
 }
