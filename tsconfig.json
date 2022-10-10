@@ -20,5 +20,9 @@
     "compilerOptions": {
       "module": "CommonJS"
     }
-  }
+  },
+//  cause problems and errors
+//  "include": [
+//    "./config/jest/setupTests.ts"
+//  ]
 }
