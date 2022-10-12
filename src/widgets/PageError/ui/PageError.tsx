@@ -3,8 +3,8 @@ import { useTranslation } from 'react-i18next';
 import { Button } from 'shared/ui/Button/ui/Button';
 import cls from './PageError.module.scss';
 
-interface PageErrorProps{
-    className?:string
+interface PageErrorProps {
+    className?: string
 }
 
 const reloadPage = () => {
@@ -12,7 +12,7 @@ const reloadPage = () => {
     location.reload();
 };
 
-export const PageError = ({ className }:PageErrorProps) => {
+export const PageError = ({ className }: PageErrorProps) => {
     const { t } = useTranslation();
     return (
         <div className={classNames(cls.PageError, {}, [className])}>
