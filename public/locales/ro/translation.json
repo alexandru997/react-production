@@ -5,5 +5,6 @@
   "NOT_FOUND": "Pagina nu exista",
   "SOMETHING_WENT_WRONG": "Ceva nu a mers bine",
   "UPDATE_PAGE": "Actualizeaza pagina",
-  "THROW_ERROR": "Erroare"
+  "THROW_ERROR": "Erroare",
+  "TOGGLE_BAR": "Comutator"
 }
