@@ -9,5 +9,8 @@
   "TOGGLE_BAR": "Toggle bar",
   "HOME": "Home",
   "ABOUT": "About",
-  "SHORT_LANG": "En"
+  "SHORT_LANG": "En",
+  "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
+    " Ab asperiores deserunt illo incidunt quo!": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab asperiores deserunt illo incidunt quo!"
+  }
 }

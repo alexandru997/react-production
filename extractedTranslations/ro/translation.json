@@ -1,8 +1,16 @@
 {
+  "                Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
+    " Ab asperiores deserunt illo incidunt quo!": " Ab asperiores deserunt illo incidunt quo!",
+    " Ab asperiores deserunt illo incidunt quo!\n": " Ab asperiores deserunt illo incidunt quo!\n"
+  },
   "ABOUT": "ABOUT",
   "ABOUT_US": "ABOUT_US",
+  "ENTRY": "ENTRY",
   "HOME": "HOME",
   "LANG": "LANG",
+  "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
+    " Ab asperiores deserunt illo incidunt quo!": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab asperiores deserunt illo incidunt quo!"
+  },
   "MAIN_PAGE": "MAIN_PAGE",
   "NOT_FOUND": "NOT_FOUND",
   "SOMETHING_WENT_WRONG": "SOMETHING_WENT_WRONG",
