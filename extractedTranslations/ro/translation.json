@@ -16,5 +16,7 @@
   "SOMETHING_WENT_WRONG": "SOMETHING_WENT_WRONG",
   "THROW_ERROR": "THROW_ERROR",
   "TOGGLE_BAR": "TOGGLE_BAR",
-  "UPDATE_PAGE": "UPDATE_PAGE"
+  "UPDATE_PAGE": "UPDATE_PAGE",
+  "decrement": "decrement",
+  "increment": "increment"
 }
