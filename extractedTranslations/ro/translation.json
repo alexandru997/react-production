@@ -6,6 +6,7 @@
   "ABOUT": "ABOUT",
   "ABOUT_US": "ABOUT_US",
   "ENTRY": "ENTRY",
+  "Entry": "Entry",
   "HOME": "HOME",
   "LANG": "LANG",
   "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
@@ -13,10 +14,13 @@
   },
   "MAIN_PAGE": "MAIN_PAGE",
   "NOT_FOUND": "NOT_FOUND",
+  "PASSWORD": "PASSWORD",
   "SOMETHING_WENT_WRONG": "SOMETHING_WENT_WRONG",
   "THROW_ERROR": "THROW_ERROR",
   "TOGGLE_BAR": "TOGGLE_BAR",
+  "TYPE_TEXT": "TYPE_TEXT",
   "UPDATE_PAGE": "UPDATE_PAGE",
+  "USERNAME": "USERNAME",
   "decrement": "decrement",
   "increment": "increment"
 }

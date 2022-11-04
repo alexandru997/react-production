@@ -13,5 +13,8 @@
   "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
     " Ab asperiores deserunt illo incidunt quo!": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab asperiores deserunt illo incidunt quo!"
   },
-  "increment": "increment"
+  "increment": "increment",
+  "USERNAME": "Nume Utilizator",
+  "PASSWORD": "Parola",
+  "TYPE_TEXT": "Scrie ceva"
 }
