@@ -1,26 +1,23 @@
 {
-  "                Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
-    " Ab asperiores deserunt illo incidunt quo!": " Ab asperiores deserunt illo incidunt quo!",
-    " Ab asperiores deserunt illo incidunt quo!\n": " Ab asperiores deserunt illo incidunt quo!\n"
-  },
-  "ABOUT": "ABOUT",
-  "ABOUT_US": "ABOUT_US",
-  "ENTRY": "ENTRY",
-  "Entry": "Entry",
-  "HOME": "HOME",
-  "LANG": "LANG",
-  "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
-    " Ab asperiores deserunt illo incidunt quo!": " Ab asperiores deserunt illo incidunt quo!"
-  },
-  "MAIN_PAGE": "MAIN_PAGE",
-  "NOT_FOUND": "NOT_FOUND",
-  "PASSWORD": "PASSWORD",
-  "SOMETHING_WENT_WRONG": "SOMETHING_WENT_WRONG",
-  "THROW_ERROR": "THROW_ERROR",
-  "TOGGLE_BAR": "",
-  "TYPE_TEXT": "TYPE_TEXT",
-  "UPDATE_PAGE": "UPDATE_PAGE",
-  "USERNAME": "USERNAME",
+  "About": "About us",
+  "Exit": "Exit",
+  "Incorrect username or password": "Incorrect username or password",
+  "Lang": "English",
+  "LangShort": "En",
+  "Login": "Login",
+  "Login Form": "Auth form",
+  "Main": "Main",
+  "Main Page": "Main page",
+  "Password": "Enter password",
+  "Reload page": "Reload page",
+  "Something went wrong": "An unexpected error has occurred",
+  "Text Example": "Test example",
+  "Toggle": "Toggle",
+  "Translation": "Translate",
+  "Type Username": "Enter username",
   "decrement": "decrement",
-  "increment": "increment"
+  "increment": "increment",
+  "new translation": "new translation",
+  "page not found": "Page not found",
+  "throw error": "throw error"
 }

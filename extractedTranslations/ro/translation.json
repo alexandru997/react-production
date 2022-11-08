@@ -1,26 +1,23 @@
 {
-  "                Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
-    " Ab asperiores deserunt illo incidunt quo!": " Ab asperiores deserunt illo incidunt quo!",
-    " Ab asperiores deserunt illo incidunt quo!\n": " Ab asperiores deserunt illo incidunt quo!\n"
-  },
-  "ABOUT": "ABOUT",
-  "ABOUT_US": "ABOUT_US",
-  "ENTRY": "ENTRY",
-  "Entry": "Entry",
-  "HOME": "HOME",
-  "LANG": "LANG",
-  "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
-    " Ab asperiores deserunt illo incidunt quo!": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab asperiores deserunt illo incidunt quo!"
-  },
-  "MAIN_PAGE": "MAIN_PAGE",
-  "NOT_FOUND": "NOT_FOUND",
-  "PASSWORD": "PASSWORD",
-  "SOMETHING_WENT_WRONG": "SOMETHING_WENT_WRONG",
-  "THROW_ERROR": "THROW_ERROR",
-  "TOGGLE_BAR": "TOGGLE_BAR",
-  "TYPE_TEXT": "TYPE_TEXT",
-  "UPDATE_PAGE": "UPDATE_PAGE",
-  "USERNAME": "USERNAME",
+  "Text Example": "Text Example",
+  "Translation": "Translation",
+  "Main Page": "Main Page",
+  "Lang": "Romana",
+  "new translation": "new translation",
+  "page not found": "page not found",
+  "Something went wrong": "Something went wrong",
+  "Reload page": "Reload page",
+  "throw error": "throw error",
+  "Main": "Main",
+  "About": "About",
+  "Toggle": "Toggle",
+  "LangShort": "Ro",
+  "Login": "Login",
+  "increment": "increment",
   "decrement": "decrement",
-  "increment": "increment"
+  "Type Username": "Type Username",
+  "Password": "Password",
+  "Login Form": "Login Form",
+  "Incorrect username or password": "Incorrect username or password",
+  "Exit": "Exit"
 }

@@ -3,7 +3,7 @@
     width: var(--sidebar-width);
     background: var(--inverted-bg-color);
     position: relative;
-    transition: width 0.4s;
+    transition: width 0.3s;
 }
 
 .switchers {
@@ -16,7 +16,6 @@
 
 .lang {
     margin-left: 20px;
-    color: red;
 }
 
 .collapseBtn {
