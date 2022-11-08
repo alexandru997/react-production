@@ -1,11 +1,25 @@
 {
+  "About": "About",
+  "Exit": "Exit",
+  "Incorect username or password": "Incorect username or password",
+  "Incorrect username or password": "Incorrect username or password",
+  "Login": "Login",
+  "Login Form": "Login Form",
   "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
     " Aliquid commodi consequatur eligendi impedit incidunt necessitatibus possimus quis saepe sunt totam": {
       "": ""
     }
   },
+  "Main": "Main",
+  "Main Page": "Main Page",
+  "Password": "Password",
+  "Reload page": "Reload page",
+  "Something went wrong": "Something went wrong",
+  "Type Username": "Type Username",
+  "Uncorect username or password": "Uncorect username or password",
   "decrement": "decrement",
   "increment": "increment",
+  "page not found": "page not found",
   "throw error": "throw error",
   "Введите username": "Введите username",
   "Введите пароль": "Введите пароль",

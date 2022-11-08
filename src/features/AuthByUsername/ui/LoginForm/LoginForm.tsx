@@ -35,20 +35,20 @@ export const LoginForm = memo(({ className }: LoginFormProps) => {
 
     return (
         <div className={classNames(cls.LoginForm, {}, [className])}>
-            <Text title={t('Форма авторизации')} />
-            {error && <Text text={t('Вы ввели неверный логин или пароль')} theme={TextTheme.ERROR} />}
+            <Text title={t('Login Form')} />
+            {error && <Text text={t('Incorrect username or password')} theme={TextTheme.ERROR} />}
             <Input
                 autofocus
                 type="text"
                 className={cls.input}
-                placeholder={t('Введите username')}
+                placeholder={t('Type Username')}
                 onChange={onChangeUsername}
                 value={username}
             />
             <Input
                 type="text"
                 className={cls.input}
-                placeholder={t('Введите пароль')}
+                placeholder={t('Password')}
                 onChange={onChangePassword}
                 value={password}
             />
@@ -58,7 +58,7 @@ export const LoginForm = memo(({ className }: LoginFormProps) => {
                 onClick={onLoginClick}
                 disabled={isLoading}
             >
-                {t('Войти')}
+                {t('Login')}
             </Button>
         </div>
     );

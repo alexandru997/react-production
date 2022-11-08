@@ -37,7 +37,7 @@ export const Navbar = ({ className }: NavbarProps) => {
                     className={cls.links}
                     onClick={onLogout}
                 >
-                    {t('Выйти')}
+                    {t('Exit')}
                 </Button>
             </div>
         );
@@ -50,7 +50,7 @@ export const Navbar = ({ className }: NavbarProps) => {
                 className={cls.links}
                 onClick={onShowModal}
             >
-                {t('Войти')}
+                {t('Login')}
             </Button>
             <LoginModal
                 isOpen={isAuthModal}
